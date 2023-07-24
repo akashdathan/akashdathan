@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hello World! 👋
 
-  I am a backend dev🤖 . Primarily works with nodejs frameworks and prefer Typescript🔥  when I code.
+NodeJS | Typescript | Javascript | Backend
 
-- 👯 I’m looking to collaborate on interesting Typescript or Golang projects
-- 💬 Ask me about anything related to NodeJS/Javascript/Typescript
 <br>
 
 ### Stack Overflow
