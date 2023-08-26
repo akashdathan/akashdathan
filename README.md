@@ -1,3 +1,2 @@
-### Hello World! 👋
-
-NodeJS | Typescript | Javascript | Backend
+### Hey,
+### I'm Akash
